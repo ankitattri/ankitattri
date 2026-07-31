@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ankit Attri
+# Hi, I'm Ankit Attri
 
 ### 🛡️ Lead Product Security Engineer | Application Security | AI Security | DevSecOps
 
@@ -16,7 +16,7 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I'm a **Lead Application Security Engineer** with **9 years of experience** securing multi-tenant SaaS products, APIs, mobile applications, cloud infrastructure, and GenAI/LLM systems.
 
@@ -24,16 +24,16 @@ I enjoy partnering with engineering teams to build security into every stage of 
 
 ---
 
-## 🔭 What I'm Working On
+## What I'm Working On
 
-- 🤖 AI & LLM Security
-- 🛡️ Product Security Engineering
-- 🎯 Threat Modeling (STRIDE & MITRE ATT&CK)
-- ☁️ AWS Cloud Security
-- ⚙️ DevSecOps Automation
-- 🐍 Python Security Tooling
-- 🔐 Secure SDLC
-- 🚩 Bug Bounty Program Management
+-  AI & LLM Security
+-  Product Security Engineering
+-  Threat Modeling (STRIDE & MITRE ATT&CK)
+-  AWS Cloud Security
+-  DevSecOps Automation
+-  Python Security Tooling
+-  Secure SDLC
+-  Bug Bounty Program Management
 
 ---
 
@@ -71,7 +71,7 @@ I enjoy partnering with engineering teams to build security into every stage of 
 
 ---
 
-# 🛠 Security Toolbox
+#  Security Toolbox
 
 ## Offensive Security
 
@@ -126,7 +126,7 @@ I enjoy partnering with engineering teams to build security into every stage of 
 
 ---
 
-# 📊 Security Expertise
+#  Security Expertise
 
 ```text
 Threat Modeling          ████████████████████ 100%
@@ -152,7 +152,7 @@ Python Automation        █████████████████░�
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 - AI Red Teaming
 - Agentic AI Security
@@ -163,48 +163,42 @@ Python Automation        █████████████████░�
 
 ---
 
-# 🏆 Certifications
+#  Certifications
 
-- 🎯 OSCP *(In Progress)*
-- ☁️ Security Engineering on AWS
-- 🤖 Rapid Threat Modeling with GenAI & LLMs
-- 🛡️ Certified Ethical Hacker (CEH)
+-  OSCP *(In Progress)*
+-  Security Engineering on AWS
+-  Rapid Threat Modeling with GenAI & LLMs
+-  Certified Ethical Hacker (CEH)
 
 ---
 
-# 📈 GitHub Stats
+#  GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ankitattri&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitattri&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitattri&theme=tokyonight)
 
 ---
 
-# 📌 Featured Repositories
+#  Featured Repositories
 
-⭐ Product Threat Modeling
+Product Threat Modeling
 
-⭐ AI Security Labs
+AI Security Labs
 
-⭐ Python Security Automation
+Python Security Automation
 
-⭐ Secure Code Review Checklist
+Secure Code Review Checklist
 
-⭐ API Pentesting Guide
+API Pentesting Guide
 
-⭐ OWASP LLM Top 10
+OWASP LLM Top 10
 
-⭐ AWS Security
+AWS Security
 
-⭐ DevSecOps Pipelines
+DevSecOps Pipelines
 
----
-
-# 💬 Favorite Quote
-
-> **"Security isn't a gate at the end of delivery—it's an engineering discipline built into every product decision."**
 
 ---
 
